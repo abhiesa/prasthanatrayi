@@ -1,0 +1,13 @@
+Book Title
+==========
+:Author:    Abhishek Pandey
+:Email:     <abhiesa@outlook.com>
+
+== Introduction
+*WIP*
+
+As a student, I am recording here what I have understood.
+
+My current thoughts. Definately will be polished, and get's better.
+
+include::chapter1.asc[]
