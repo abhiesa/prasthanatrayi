@@ -1,3 +1,0 @@
-==== प्रथम मण्डल
-
-include::mandala01/sukta001.adoc[]
