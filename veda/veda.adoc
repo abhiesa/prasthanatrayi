@@ -2,4 +2,4 @@
 
 TODO
 
-include::rig-veda/rigveda.adoc[]
+include::rigveda/rigveda.adoc[]
