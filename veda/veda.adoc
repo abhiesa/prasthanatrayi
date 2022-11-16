@@ -1,5 +1,0 @@
-== Veda
-
-TODO
-
-include::rig-veda/rigveda.adoc[]
