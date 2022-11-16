@@ -16,4 +16,4 @@ The whole of the Rigveda-Samhita is in form of verses, known as Rik.
 A Sukta is a group of Mantras. The number of Mantras in a Sukta is not fixed. Some Suktas have a small number of Mantras while others have a large number of Mantras. It is important to note that every Sukta has a seer i.e. Rishi, a deity i.e. Devata and a metre i.e. Chandas . The Samhita of the Rigveda comprises 10 Mandalas, 85 Anuvakas, 1028 Suktas and 10552 Mantras. Usually Anuvaka is not mentioned for the reference of a Mantra of the Rigveda. For example RV 3.16.7 simply means the seventh Mantra of the sixteenth Sukta of the third Mandala of the Rigveda.</p>
 <p>  Through this chart we can know the division of Mandalas, number of Suktas in each Mandala and name of Rishis of some Mandalas.
 
-include::mandala/mandala.adoc[]
+include::mandala01/mandala.adoc[]
