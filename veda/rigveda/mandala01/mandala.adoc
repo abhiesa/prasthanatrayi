@@ -1,4 +1,4 @@
-=== Mandala 01
+==== Mandala 01
 
 
 include::sukta001.adoc[]
