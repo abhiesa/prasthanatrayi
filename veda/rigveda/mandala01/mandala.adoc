@@ -1,4 +1,18 @@
 ==== Mandala 01
 
+[%header,cols=2*] 
+|===
+|Mnaadala
+|01
+
+|Sukta
+|191
+
+|Mantras
+|2006
+
+|Mantras
+|Maducchanda, Medhatithi, Gotama and many others
+|===
 
 include::sukta001.adoc[]
